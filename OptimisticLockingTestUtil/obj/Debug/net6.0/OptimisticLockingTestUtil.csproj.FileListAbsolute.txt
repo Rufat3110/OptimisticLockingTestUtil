@@ -1,0 +1,15 @@
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\bin\Debug\net6.0\OptimisticLockingTestUtil.exe
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\bin\Debug\net6.0\OptimisticLockingTestUtil.deps.json
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\bin\Debug\net6.0\OptimisticLockingTestUtil.runtimeconfig.json
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\bin\Debug\net6.0\OptimisticLockingTestUtil.dll
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\bin\Debug\net6.0\OptimisticLockingTestUtil.pdb
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.csproj.AssemblyReference.cache
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.AssemblyInfoInputs.cache
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.AssemblyInfo.cs
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.csproj.CoreCompileInputs.cache
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.dll
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\refint\OptimisticLockingTestUtil.dll
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.pdb
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\OptimisticLockingTestUtil.genruntimeconfig.cache
+C:\Users\RufatAbdurahmanov\source\repos\OptimisticLockingTestUtil\OptimisticLockingTestUtil\obj\Debug\net6.0\ref\OptimisticLockingTestUtil.dll
